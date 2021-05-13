@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height: 3;
+    font-family: 'Itim', cursive;
+    background-color: rgb(233, 12, 78);
+}
+
+.heading2{
+    text-align: center;
+    color: white;
+    line-height: 3;
+    border-radius: 5px;
+    height: 43px;
+    background-color: rgb(233, 12, 78);
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status{
+    font-size: 27px;
+    font-family: 'Cookie', cursive;
+}
+
+#start{
+    background-color: hotpink;
+    border-color: hotpink;
+}
+
+#status{
+    background-color: rgb(216, 31, 133);
+    border-color: rgb(216, 31, 133);;
+}
